@@ -39,16 +39,16 @@ a {
   font-weight: bolder;
 }
 
+a:hover i{
+  color: rgb(17, 212, 226);
+}
+
 a:hover {
   color: whitesmoke;
 }
 
 a i {
   color: white;
-}
-
-a i:hover {
-  color: rgb(17, 212, 226);
 }
 
 footer {
